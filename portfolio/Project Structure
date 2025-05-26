@@ -1,0 +1,13 @@
+portfolio/
+│
+├── static/
+│   └── style.css
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   ├── about.html
+│   ├── projects.html
+│   ├── skills.html
+│   └── contact.html
+├── app.py
+└── README.md
